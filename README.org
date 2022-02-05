@@ -1,6 +1,6 @@
-* Last name:
-* First name:
-* Github username:
+* Last name: Scattaretico
+* First name: Eric
+* Github username:Scatt8Tech
 
 * Instructions:
 
