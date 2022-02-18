@@ -19,9 +19,16 @@ Question 2: Draw a stack diagram that shows the state of the program the first t
 
 Stack Diagram for first Ping
 
-main String "No, I"
-zoop "baffle" "You wugga "
-print "."
+ping "."
 
+* p.s: Please help clarify Q2, not sure if I completed this correctly.
 
 What happens if you invoke baffle(); at the end of the ping method? (We will see why in the next chapter.)
+
+If you invoke baffle at the end of the ping method it will begin with "." and then add "wug" and then ping "."
+
+It would read: 
+
+. wug.
+
+It would also cause a stack overflow error where ping and baffle repeat in a loop.
